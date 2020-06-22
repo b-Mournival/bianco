@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.social {
+    position: fixed;
+    right: 0;
+    top: 262px;
+}
+
+.social a {
+    text-decoration: none;
+    display: block;
+    width: 50px;
+    line-height: 50px;
+    background-color: #850409;
+    color: white;
+    text-align: center;
+    font-size: 33px;
+    cursor: pointer;
+}
+.social a:last-of-type {
+    font-size: 27px;
+    background-color: #98161b;
+}
+
+header {
+    height: 40px;
+    background-color: #af2024;
+}
+
+.container {
+
+}
+
+p {
+    font-size: 40px;
+}
+
+footer {
+    height: 500px;
+    background-color: #000000;
+}
