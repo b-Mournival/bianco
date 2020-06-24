@@ -8,8 +8,6 @@
 body {
     background: url("../images/bg.jpg") top center no-repeat #3f0002;
     background-size: cover;
-    height: 820px;
-    /*background-color: #3f0002;*/
 }
 
 .social {
